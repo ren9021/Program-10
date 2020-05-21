@@ -6,16 +6,9 @@
 #
 #  File Name:         Program10.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
+#  Description:       This program reads a survey's results into three lists and
+#                     performs an analysis based on those results
 #
-#  Due Date:          11-16-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter #s 5-8
-#
-#  Description: This program reads a survey's results into three lists and
-#  performs an analysis based on those results.
 #********************************************************************
 
 #***************************************************************
@@ -173,7 +166,6 @@ def pv(income,number,members):
 
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  10')
     print()
     # End of the developerInfo function
